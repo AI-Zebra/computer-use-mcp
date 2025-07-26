@@ -1,10 +1,20 @@
 # Computer Use MCP Server 🖥️
 
+[![smithery badge](https://smithery.ai/badge/@AI-Zebra/computer-use-mcp)](https://smithery.ai/server/@AI-Zebra/computer-use-mcp)
+
 Control virtual computers through the Model Context Protocol (MCP). Built with FastMCP and Orgo.
 
 Spin up cloud desktop environments for Computer Use Agents (CUA).
 
 ## Quick Start
+
+### Installing via Smithery
+
+To install Computer Use Virtual Desktop Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@AI-Zebra/computer-use-mcp):
+
+```bash
+npx -y @smithery/cli install @AI-Zebra/computer-use-mcp --client claude
+```
 
 ### 1. Install Dependencies
 ```bash
